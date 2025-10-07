@@ -5,8 +5,8 @@ module.exports = {
   language: "en",
   ownerID: ["1004206704994566164", ""], 
   mongodbUri : "",
-  spotifyClientId : "",
-  spotifyClientSecret : "",
+  spotifyClientId : "47afff587fc44d83b62ec5df8b5b2a71",
+  spotifyClientSecret : "01401bca9f744dcd946debdfc23f95cc",
   setupFilePath: './commands/setup.json',
   commandsDir: './commands',  
   embedColor: "#1db954",
@@ -17,10 +17,10 @@ module.exports = {
   errorLog: "", 
   nodes: [
      {
-      name: "GlaceYT",
-      password: "glace",
-      host: "87.106.62.92",
-      port:  11642,
+      name: "Main",
+      password: "https://dsc.gg/ajidevserver",
+      host: "lava-v3.ajieblogs.eu.org",
+      port:  80,
       secure: false
     }
   ]
