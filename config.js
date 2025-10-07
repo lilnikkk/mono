@@ -10,7 +10,7 @@ module.exports = {
   setupFilePath: './commands/setup.json',
   commandsDir: './commands',  
   embedColor: "#1db954",
-  activityName: "YouTube Music", 
+  activityName: "Nhót Hát Nè", 
   activityType: "LISTENING",  // Available activity types : LISTENING , PLAYING
   SupportServer: "https://discord.gg/xQF9f9yUEM",
   embedTimeout: 5, 
@@ -19,7 +19,7 @@ module.exports = {
      {
       name: "Main",
       password: "https://dsc.gg/ajidevserver",
-      host: "lava-v3.ajieblogs.eu.org",
+      host: "lavalink.serenetia.com",
       port:  80,
       secure: false
     }
